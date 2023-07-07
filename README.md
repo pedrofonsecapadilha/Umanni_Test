@@ -15,9 +15,9 @@
 > Do not forget about the DB too (rails db:create db:migrate db:seed)
 
 > Run: Localhost <br>
-> Site(Heroku): https://umanni-test-ad92edb6bc35.herokuapp.com/
+- Site(Heroku): https://umanni-test-ad92edb6bc35.herokuapp.com/
 
-> Some Logins already exist for use
+> Logins already exist for use
 - Login-Admin: contato@umanni.com.br <br>
 - Password: 123123 <br>
 - Login-User: pedropadilha@umanni.com.br <br>
