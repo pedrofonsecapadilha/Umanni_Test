@@ -57,3 +57,11 @@ userUser.full_name = "Pedro Padilha"
 userUser.email = "pedropadilha@umanni.com.br"
 userUser.password = '123123'
 userUser.save!
+
+(1..28).each do
+  user = user.new
+  user.full_name = "#{faker::name.first_name} #{faker::name.last_name}"
+  user.email = "#{user.full_name.downcase.gsub(" ","")}@umanni.com.br"
+  user.password = '123123'
+  user.save!
+end
