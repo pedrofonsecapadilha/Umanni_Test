@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/umanni/Fullstack-Developer?style=for-the-badge)
 
 <div align="center">
-<img src="https://github.com/umanni/Fullstack-Developer/PedroPadilha/app/assets/images/umanni_logo.png" width="250px" alt="logo">
+<img src="https://www.umanni.com/assets/umanni.svg" width="250px" alt="logo">
 </div>
 
 > Project made for Full Stack Umanni developer vacancy test - Started Thursday (02/03/2023) and delivered on Monday (06/03/2023).
@@ -15,6 +15,7 @@
 > Do not forget about the DB too (rails db:create db:migrate db:seed)
 
 > Run: Localhost <br>
+> Site(Heroku): https://umanni-test-ad92edb6bc35.herokuapp.com/
 
 > Some Logins already exist for use
 - Login-Admin: contato@umanni.com.br <br>
